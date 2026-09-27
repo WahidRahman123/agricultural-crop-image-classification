@@ -1,0 +1,13 @@
+{
+  "total_images": 1044,
+  "num_classes": 6,
+  "class_distribution": {
+    "almond": 231,
+    "sunflower": 187,
+    "tomato": 197,
+    "vigna_radiati_mung": 178,
+    "wheat": 158,
+    "coconut": 93
+  },
+  "imbalance_ratio": 2.4838709677419355
+}
