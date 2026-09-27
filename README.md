@@ -2,7 +2,7 @@
 **MSc Project – Military Institute of Science and Technology (MIST), Dhaka**
 
 **Student:** Md Wahid Rahman
-**Tentative Title (from proposal):** Agricultural Crops Image Classification Using Machine Learning
+**Tentative Title:** Agricultural Crops Image Classification Using Machine Learning
 
 ---
 
